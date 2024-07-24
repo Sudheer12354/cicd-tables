@@ -1,0 +1,4 @@
+git add 
+
+git commit -m "Add SQL scripts for table creation"
+git push origin main
